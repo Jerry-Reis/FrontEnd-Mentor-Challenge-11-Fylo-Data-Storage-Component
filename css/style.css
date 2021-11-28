@@ -72,6 +72,8 @@ body {
 
     border-radius: 10px;
     border-top-right-radius: 95px;
+
+    box-shadow: 0px 50px 80px var(--very-dark-blue-opacity);
 }
 
 .logo {
@@ -102,6 +104,8 @@ body {
     padding: 40px;
 
     border-radius: 10px;
+
+    box-shadow: 0px 50px 80px var(--very-dark-blue-opacity);
 }
 
 .used-storage {
